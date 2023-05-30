@@ -1,0 +1,11 @@
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.csproj.AssemblyReference.cache
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.csproj.CoreCompileInputs.cache
+C:\Projetos\SearchCEP\SearchCEP\bin\Debug\SearchCEP.exe.config
+C:\Projetos\SearchCEP\SearchCEP\bin\Debug\SearchCEP.exe
+C:\Projetos\SearchCEP\SearchCEP\bin\Debug\SearchCEP.pdb
+C:\Projetos\SearchCEP\SearchCEP\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\SearchCEP\SearchCEP\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.csproj.CopyComplete
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.exe
+C:\Projetos\SearchCEP\SearchCEP\obj\Debug\SearchCEP.pdb
